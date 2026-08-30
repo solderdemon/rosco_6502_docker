@@ -1,0 +1,7 @@
+test/*.o
+test/*.bin
+test/*.hex
+test/*.lst
+test/*.sym
+test/*.map
+test/*.dis
